@@ -1,0 +1,60 @@
+------------------------ Passenger 1 ------------------------
+--- Full Name : amal peiris
+--- Seat No. : 1
+--- Waiting Time In Queue : 5 seconds
+-------------------------------------------------------------------------
+
+------------------------ Passenger 2 ------------------------
+--- Full Name : viraj wickrama
+--- Seat No. : 33
+--- Waiting Time In Queue : 19 seconds
+-------------------------------------------------------------------------
+
+------------------------ Passenger 3 ------------------------
+--- Full Name : sunil fernando
+--- Seat No. : 18
+--- Waiting Time In Queue : 33 seconds
+-------------------------------------------------------------------------
+
+------------------------ Passenger 4 ------------------------
+--- Full Name : uvindu peiris
+--- Seat No. : 35
+--- Waiting Time In Queue : 39 seconds
+-------------------------------------------------------------------------
+
+------------------------ Passenger 5 ------------------------
+--- Full Name : ajith athukorala
+--- Seat No. : 20
+--- Waiting Time In Queue : 50 seconds
+-------------------------------------------------------------------------
+
+------------------------ Passenger 6 ------------------------
+--- Full Name : athula ranaweera
+--- Seat No. : 21
+--- Waiting Time In Queue : 59 seconds
+-------------------------------------------------------------------------
+
+------------------------ Passenger 7 ------------------------
+--- Full Name : nimal silva
+--- Seat No. : 25
+--- Waiting Time In Queue : 70 seconds
+-------------------------------------------------------------------------
+
+------------------------ Passenger 8 ------------------------
+--- Full Name : amesh jayaweera
+--- Seat No. : 42
+--- Waiting Time In Queue : 80 seconds
+-------------------------------------------------------------------------
+
+------------------------ Passenger 9 ------------------------
+--- Full Name : kusal dissanayake
+--- Seat No. : 27
+--- Waiting Time In Queue : 95 seconds
+-------------------------------------------------------------------------
+
+-------------------------------- Summary --------------------------------
+--- Maximum length of queue       : 9
+--- Minimum waiting time in queue : 5 seconds
+--- Maximum waiting time in queue : 95 seconds
+--- Average waiting time in queue : 10.555555 seconds
+-------------------------------------------------------------------------
